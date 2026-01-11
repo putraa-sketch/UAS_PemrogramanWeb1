@@ -47,7 +47,9 @@ PROJECT_UAS_WEB/
 │   └── Views/
 │       ├── admin/
 │       │   ├── dashboard.php   
-│       │   ├── form.php         
+│       │   ├── form.php
+│       │   ├── home.php
+│       │   ├── list.php  
 │       │   └── stats.php       
 │       ├── auth/
 │       │   └── login.php       
