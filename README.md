@@ -114,7 +114,7 @@ Form untuk mengubah data barang yang sudah ada.
 
 Untuk melihat demonstrasi lengkap penggunaan aplikasi, silakan kunjungi link YouTube berikut:
 
-**Link Video:** [Klik Disini untuk Menonton](LINK_YOUTUBE_ANDA)
+**Link Video:** [Klik Disini untuk Menonton](https://youtu.be/81vsxEh5qhQ)
 
 ---
 
