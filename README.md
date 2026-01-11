@@ -84,28 +84,27 @@ Berikut adalah dokumentasi tampilan dan fungsionalitas sistem:
 
 ### 1. Halaman Login
 Halaman masuk untuk administrator dengan validasi username dan password.
-*(Ganti teks ini dengan gambar screenshot login)*
-`![Halaman Login](screenshots/login.png)`
+<img width="1656" height="790" alt="image" src="https://github.com/user-attachments/assets/ce639ee1-8486-43b8-9c49-4459d79d470d" />
+
 
 ### 2. Dashboard Admin
 Halaman utama setelah login yang menampilkan statistik data.
-*(Ganti teks ini dengan gambar screenshot dashboard)*
-`![Dashboard](screenshots/dashboard.png)`
+<img width="1656" height="1265" alt="image" src="https://github.com/user-attachments/assets/8a525043-f7db-4273-bf19-606089da9fc1" />
+
+
 
 ### 3. Data Barang (List)
 Menampilkan tabel data barang dengan fitur Pagination dan Pencarian.
-*(Ganti teks ini dengan gambar screenshot tabel barang)*
-`![Data Barang](screenshots/list_barang.png)`
+<img width="1656" height="1150" alt="image" src="https://github.com/user-attachments/assets/14501b6e-245e-41a4-8ec3-31f9f82ee8fb" />
+
 
 ### 4. Tambah Barang (Create)
 Form input data barang baru dengan fitur upload gambar.
-*(Ganti teks ini dengan gambar screenshot form tambah)*
-`![Tambah Barang](screenshots/tambah_barang.png)`
+<img width="1656" height="1185" alt="image" src="https://github.com/user-attachments/assets/e072c525-0eb4-4878-ac07-7f48f7777c8e" />
 
 ### 5. Edit Barang (Update)
 Form untuk mengubah data barang yang sudah ada.
-*(Ganti teks ini dengan gambar screenshot form edit)*
-`![Edit Barang](screenshots/edit_barang.png)`
+<img width="1656" height="1185" alt="image" src="https://github.com/user-attachments/assets/645fff44-3220-4145-a672-a9d45aeaba9f" />
 
 ---
 
